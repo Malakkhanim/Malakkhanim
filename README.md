@@ -8,6 +8,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/python--v1.png" height="30" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/jupyter.png" height="30" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v2.png" height="30" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/r--v2.png" height="30" /></a>
 
 <!--
 **Malakkhanim/Malakkhanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

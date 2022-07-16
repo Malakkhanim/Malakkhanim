@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new offers 💪
+
+
 <!--
 **Malakkhanim/Malakkhanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

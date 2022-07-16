@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new offers :star:
+#### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new job offers :star:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malakkhanim&theme=dark)](https://git.io/streak-stats)
 <!--

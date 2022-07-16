@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new offers 💪
+##### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new offers 💪
 
 
 <!--

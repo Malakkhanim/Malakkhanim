@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=malakkhanim&color=ff69b4)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/malakkhanim)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/rustamovam)
 &nbsp
 #### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new job offers :star:
 

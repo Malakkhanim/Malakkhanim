@@ -2,8 +2,7 @@
 
 #### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new offers :star:
 
-#### Languages and tools
-<img src="https://github-readme-stats.vercel.app/api?username=Malakkhanim&show_icons=true&theme=ADD_THEME_HERE" width="400">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malakkhanim&theme=dark)](https://git.io/streak-stats)
 <!--
 **Malakkhanim/Malakkhanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

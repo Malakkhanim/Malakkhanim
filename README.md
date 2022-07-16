@@ -2,7 +2,7 @@
 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rustamovam)
 [![General badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rustamovamlk)
-![](https://komarev.com/ghpvc/?username=malakkhanim&color=ff69b4)
+
 #### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new job offers :star:
 
 ![Malakkhanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=malakkhanim&show_icons=true&theme=radical)
@@ -15,6 +15,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/power-bi.png" height="30" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/sql.png" height="30" /></a>
 
+![](https://komarev.com/ghpvc/?username=malakkhanim&color=ff69b4)
 <!--
 **Malakkhanim/Malakkhanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

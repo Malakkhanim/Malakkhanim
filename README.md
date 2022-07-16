@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=malakkhanim&color=purple)
+![](https://komarev.com/ghpvc/?username=malakkhanim&color=ff69b4)
 #### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new job offers :star:
 
 ![Malakkhanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=malakkhanim&show_icons=true&theme=radical)

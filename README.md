@@ -5,7 +5,7 @@
 ![Malakkhanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=malakkhanim&show_icons=true&theme=radical)
 
 ### Languages and tools
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/python--v1.png" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/python--v1.png" height="30" /></a>
 
 <!--
 **Malakkhanim/Malakkhanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

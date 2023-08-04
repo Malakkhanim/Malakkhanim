@@ -3,7 +3,7 @@
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rustamovam)
 [![General badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rustamovamlk)
 
-#### My name is Malakkhanim Rustamova I'm data scientist and I'm open to new job offers :star:
+#### I'm Malakkhanim Rustamova I'm data scientist and I'm open to new job offers :star:
 
 
 

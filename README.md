@@ -5,6 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-malakkhanim.dev-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.malakkhanim.dev/)
 
 
+
 #### Experienced in developing AI models, data pipelines, and automation workflows using Python, SQL, and modern ML tools. Passionate about applied AI, scalable systems, and impactful products. Open to new roles in AI engineering and data-driven teams. :star:
 
 

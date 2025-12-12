@@ -19,6 +19,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/r--v2.png" height="30" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/power-bi.png" height="30" /></a>
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/sql.png" height="30" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://img.icons8.com/color/344/supabase.png" height="30" /></a>
 
 ![](https://komarev.com/ghpvc/?username=malakkhanim&color=ff69b4)
 <!--
